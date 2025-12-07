@@ -34,7 +34,7 @@ This project builds a functional substation simulation using entirely free and o
 │  ┌──────────────────┐  ┌─────────────┐ │
 │  │  Ubuntu Server   │  │ Windows 10  │ │
 │  │  (OpenPLC)       │  │ (HMI/Client)│ │
-│  │  192.168.X.X   │  │ 192.168.X.X│ │
+│  │  192.168.X.X    │  │ 192.168.X.X│ │
 │  └──────────────────┘  └─────────────┘ │
 └─────────────────────────────────────────┘
 ```
@@ -59,10 +59,6 @@ Daily progress documentation available in `/docs` directory.
 - Power sector automation systems
 - Technical documentation
 
-## Learning Resources
-
-Part of a structured power sector cybersecurity learning path. See `/docs/learning-guide.md` for curated resources.
-
 ## Project Timeline
 
 - **Month 1-3:** Foundation projects (Substation automation, protocol analysis)
@@ -80,3 +76,4 @@ Building this project as part of career development in ICS/OT cybersecurity with
 ---
 
 **Last Updated:** December 6, 2024
+```
